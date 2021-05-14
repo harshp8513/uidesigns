@@ -20,4 +20,8 @@
   ._box {
     justify-content: center;
   }
+  ._box-select select{
+    background-color: transparent;
+    border: none;
+  }
 }

@@ -18,7 +18,7 @@ function Head() {
                         iconSize={"12px"}
                         iconColor="#8a8a8a">
 
-                        <option value="option1">Awesome Company Pvt Ltd</option>
+                        <option value="option1" selected>Awesome Company Pvt Ltd</option>
                         <option value="option2">Young and Dangerous</option>
                         <option value="option3">Total Produce pty Ltd</option>
                         <option value="option3">Hospo Boys</option>
